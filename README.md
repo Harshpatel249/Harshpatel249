@@ -1,7 +1,5 @@
 ### Hi there, I'm [Harsh][website] 👋
 
-[![Website](https://img.shields.io/website?label=hrishi.tech&style=for-the-badge&url=https://hrishi.tech)](https://harshp.tech)
-
 ## I aspire to build quality products using code.
 
 I am a currently pursuing Master of Applied Computer Science at Dalhousie University and I am a full stack developer with an inclination for machine learning. 
