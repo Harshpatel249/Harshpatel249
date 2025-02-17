@@ -2,7 +2,7 @@
 
 ## I aspire to build quality products using code.
 
-I am currently a full-stack developer coop at Shift - Redbrick.
+I am currently an Associate Consulting Engineer @Psyncopate Technologies.
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=LinkedIn&logoColor=blue)][linkedin]
